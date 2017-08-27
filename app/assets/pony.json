@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Твайлайт",
+    "color": "Фиолетовый",
+    "kind": "Единорог",
+    "price": 19.99,
+    "is_new": false
+  },
+  {
+    "name": "Вкурыс",
+    "color": "Розовый",
+    "kind": "Земная пони",
+    "price": 20.99,
+    "is_new": true
+  },
+  {
+    "name": "Щаперут",
+    "color": "Радужный",
+    "kind": "Единорог",
+    "price": 30.99,
+    "is_new": false
+  },
+  {
+    "name": "Вокер",
+    "color": "Розовый",
+    "kind": "Единорог",
+    "price": 40.99,
+    "is_new": false
+  },
+  {
+    "name": "Зуболы",
+    "color": "Фиолетовый",
+    "kind": "Единорог",
+    "price": 50.99,
+    "is_new": true
+  },
+  {
+    "name": "Тракерт",
+    "color": "Радужный",
+    "kind": "Аликорн",
+    "price": 60.99,
+    "is_new": false
+  },
+  {
+    "name": "Цуракер",
+    "color": "Фиолетовый",
+    "kind": "Аликорн",
+    "price": 61.99,
+    "is_new": false
+  },
+  {
+    "name": "Домерыс",
+    "color": "Розовый",
+    "kind": "Единорог",
+    "price": 44.99,
+    "is_new": false
+  },
+  {
+    "name": "Зовует",
+    "color": "Радужный",
+    "kind": "Пегас",
+    "price": 21.99,
+    "is_new": false
+  },
+  {
+    "name": "Феруль",
+    "color": "Фиолетовый",
+    "kind": "Единорог",
+    "price": 46.99,
+    "is_new": true
+  },
+  {
+    "name": "Коперас",
+    "color": "Фиолетовый",
+    "kind": "Земная пони",
+    "price": 12.99,
+    "is_new": false
+  },
+  {
+    "name": "Лайкун",
+    "color": "Фиолетовый",
+    "kind": "Единорог",
+    "price": 44.99,
+    "is_new": false
+  },
+  {
+    "name": "Таркос",
+    "color": "Розовый",
+    "kind": "Пегас",
+    "price": 77.99,
+    "is_new": true
+  },
+  {
+    "name": "Шаблокус",
+    "color": "Фиолетовый",
+    "kind": "Аликорн",
+    "price": 18.99,
+    "is_new": false
+  },
+  {
+    "name": "Нирока",
+    "color": "Радужный",
+    "kind": "Аликорн",
+    "price": 52.99,
+    "is_new": false
+  },
+  {
+    "name": "Керсант",
+    "color": "Фиолетовый",
+    "kind": "Единорог",
+    "price": 38.99,
+    "is_new": true
+  },
+  {
+    "name": "Лаковиц",
+    "color": "Розовый",
+    "kind": "Единорог",
+    "price": 12.00,
+    "is_new": false
+  },
+  {
+    "name": "Кремаль",
+    "color": "Фиолетовый",
+    "kind": "Земная пони",
+    "price": 55.50,
+    "is_new": false
+  },
+  {
+    "name": "Журок",
+    "color": "Фиолетовый",
+    "kind": "Единорог",
+    "price": 10,
+    "is_new": false
+  },
+  {
+    "name": "Дорминт",
+    "color": "Фиолетовый",
+    "kind": "Единорог",
+    "price": 32,
+    "is_new": false
+  },
+  {
+    "name": "Выхтолп",
+    "color": "Розовый",
+    "kind": "Единорог",
+    "price": 59,
+    "is_new": false
+  },
+  {
+    "name": "Капольк",
+    "color": "Красный",
+    "kind": "Единорог",
+    "price": 89,
+    "is_new": true
+  },
+  {
+    "name": "Кернук",
+    "color": "Розовый",
+    "kind": "Пегас",
+    "price": 123,
+    "is_new": false
+  },
+  {
+    "name": "Рокрас",
+    "color": "Фиолетовый",
+    "kind": "Единорог",
+    "price": 67.32,
+    "is_new": false
+  },
+  {
+    "name": "Милокай",
+    "color": "Фиолетовый",
+    "kind": "Единорог",
+    "price": 57.21,
+    "is_new": true
+  },
+  {
+    "name": "Трапунч",
+    "color": "Красный",
+    "kind": "Единорог",
+    "price": 12.22,
+    "is_new": false
+  },
+  {
+    "name": "Криповатый",
+    "color": "Фиолетовый",
+    "kind": "Земная пони",
+    "price": 821.12,
+    "is_new": false
+  },
+  {
+    "name": "Фыркус",
+    "color": "Фиолетовый",
+    "kind": "Единорог",
+    "price": 31.12,
+    "is_new": false
+  },
+  {
+    "name": "Скорож",
+    "color": "Розовый",
+    "kind": "Земная пони",
+    "price": 87.21,
+    "is_new": false
+  },
+  {
+    "name": "Чамбиль",
+    "color": "Красный",
+    "kind": "Пегас",
+    "price": 21.11,
+    "is_new": true
+  }
+]
